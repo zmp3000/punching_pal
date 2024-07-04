@@ -1,0 +1,14 @@
+const IP_ADDRESS = "192.168.178.83";
+export const url = `http://${IP_ADDRESS}:3000/signin`;
+export const url2 = `http://${IP_ADDRESS}:3000/profile`;
+export const url3 = `http://${IP_ADDRESS}:3000/news?category=sports`;
+export const url4 = `http://${IP_ADDRESS}:3000/login`;
+export const url5 = `http://${IP_ADDRESS}:3000/filter`;
+export const url6 = `http://${IP_ADDRESS}:3000/user`;
+export const url7 = `http://${IP_ADDRESS}:3000/send`;
+export const url8 = `http://${IP_ADDRESS}:3000/admin`;
+export const url9 = `http://${IP_ADDRESS}:3000/api/filter_rek/1`;
+export const url10 = `http://${IP_ADDRESS}:3000/api/filter_rek/2`;
+export const url11 = `http://${IP_ADDRESS}:3000/admin2`;
+export const url12 = `http://${IP_ADDRESS}:3000/api2/profile_rek/1`;
+export const url13 = `http://${IP_ADDRESS}:3000/api2/profile_rek/2`;
