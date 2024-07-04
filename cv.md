@@ -2,9 +2,9 @@
 
 **Contact Information:**
 
-- Phone: +375 29 2534534
+- Phone: +375292534534
 - E-mail: asemenuk100@gmail.com
-- Telegram: @semenukan
+- Telegram: @semenuke    
 
 **Briefly About Myself:**
 I am driven to create innovative solutions and continuously pursue personal development. My goals include not only achieving success in the professional sphere but also creating something new and valuable for society.
