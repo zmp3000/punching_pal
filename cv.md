@@ -1,32 +1,27 @@
 # Semenuk Andrey Nikolaevich
 
 **Contact Information:**
-
+- Date and year of birth: 06/23/2005
+- Place of study: Private Educational Institution “College of Business and Law”, 4 years, specialty “Information Technology Software”
 - Phone: +375292534534
 - E-mail: asemenuk100@gmail.com
 - Telegram: @semenuke    
 
 **Briefly About Myself:**
-I am driven to create innovative solutions and continuously pursue personal development. My goals include not only achieving success in the professional sphere but also creating something new and valuable for society.
+I strive for innovation and continuous development. My goals are success in the professional sphere and creating something valuable for society.
 
 **Goals and Priorities:**
-My drive to create something new inspires me to seek creative solutions and innovations. I aspire to contribute to areas where communication and perseverance play a key role. My goal is to develop and refine my skills to interact effectively with colleagues and overcome any professional challenges.
+My goal is to contribute to areas where communication and persistence are key. I aim to develop and refine my skills for effective interaction and overcoming professional challenges.
 
 **Strong Points:**
-One of my strengths is a high level of communicability. I can establish common ground with different people, facilitating successful teamwork. My experience in learning and developing personal skills demonstrates my readiness for continuous self-improvement.
+I have a high level of communicability, the ability to find common ground with people, and readiness for continuous self-improvement.
 
 **Experience:**
-During my internship at OAO "WEBDAD", I was part of a team comprised of my fellow group members, where we took on the task of migrating the company's website from Strapi to Directus. This project provided me with a valuable opportunity to apply my knowledge of GitHub in a practical setting, utilizing it for version control and collaboration. This experience allowed me to further hone my skills and understand the importance of efficient code management in a team environment.
+I completed an internship at OAO "WEBDAD". I was involved in migrating the company's website from Strapi to Directus, using GitHub for version control and collaboration. I gained experience with GraphQL, optimizing data queries and mutations. I also learned and used Storybook for developing isolated UI components. For task management, I used Jira. I worked on a company website built with Vue.js and Nuxt.js.
 
-In addition, I delved into the world of GraphQL while working on this migration project. I learned its intricacies and applied this knowledge to optimize data queries and mutations. This has not only broadened my skill set but also given me a deeper understanding of API architectures.
+## Thesis Project:
 
-I also gained hands-on experience with Storybook, a tool that significantly improved my ability to develop UI components in isolation. This has allowed me to ensure the quality and consistency of UI elements, contributing to a more efficient and streamlined development process.
-
-Moreover, I was introduced to Jira for task management. Through Jira, I received my work assignments, tracked project progress, and collaborated with my team members. This experience has helped me appreciate the value of organized task management in ensuring project success.
-
-The project I worked on was a website of the company built with Vue.js and Nuxt.js. Working with these technologies, I was able to enhance my frontend development skills, particularly in creating dynamic, server-rendered applications. This experience has further solidified my passion for web development and my commitment to continuous learning and improvement.
-When it came to choosing the technology for my thesis project, I decided to go with React Native and React for the frontend, Tailwind CSS as highly customizable, low-level CSS framework that gives developers the ability to build modern, responsive designs without leaving their HTML or JSX. For the backend, I chose Node.js along with Express.js. This decision was based on my experience with various libraries and frameworks that I had used previously. I found React Native and React to be the most convenient and efficient tools for frontend application development, while Node.js and Express.js provided me with a robust and scalable backend solution. Working on my thesis project with these technologies allowed me to deepen my understanding of their capabilities and nuances. 
-
+For my thesis project, I chose React Native and React for the frontend, Tailwind CSS for design, and Node.js with Express.js for the backend. This decision was based on my previous experience with various libraries and frameworks.
 I am confident that my qualities and commitment to development can significantly enrich your team. I am ready to start my professional journey and invest all my energy in achieving common goals.
 
 ## Skills and Proficiency:
@@ -84,8 +79,8 @@ print(f"Path length: {shortest_distance}")
 
 **Courses**
 
-- Путь в IT Python PRO (in progress)
-- JavaScript/Front-end 2023Q4\*\* (in progress)
+- Путь в IT Python PRO 
+- JavaScript/Front-end 2023Q4\*\* 
 
 **Languages:**
 
