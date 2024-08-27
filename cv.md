@@ -26,13 +26,13 @@ I am confident that my qualities and commitment to development can significantly
 
 ## Skills and Proficiency:
 
-- HTML, CSS, JS, React JS, React native, Node.js, Express
+- HTML, CSS, JS, React JS, React native, Angular, Vue, NgRx, Node.js, Express
 - Tailwind CSS
 - Python, Django, Django Rest Framework
-- Java Basics
-- C# Basics
+- Java
+- C#, C++ Basics
 - Git, GitHub
-- Sublime, Visual Studio, VS Code, PyCharm, Eclipse IDE
+- Sublime, Visual Studio, VS Code, PyCharm, Eclipse IDE, IntelliJ IDEA
 - Directus
 
 ## Code Example:
